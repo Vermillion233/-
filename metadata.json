@@ -1,0 +1,5 @@
+{
+  "name": "AI Construction Risk Assessment Builder",
+  "description": "An automated tool for generating construction risk assessment reports (공종, 위험요인, 위험등급, 안전대책) based on project overview and work types using Gemini AI.",
+  "requestFramePermissions": []
+}
